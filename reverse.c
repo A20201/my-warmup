@@ -1,3 +1,10 @@
+ 
+/*
+Aki Laaksonen
+aki.laaksonen@student.lut.fi
+Course CT30A3370
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
